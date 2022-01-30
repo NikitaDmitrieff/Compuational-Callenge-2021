@@ -1,1 +1,1 @@
-# Compuational-Callenge-2021
+# Computational-Challenge-2021
